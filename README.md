@@ -7,7 +7,7 @@
 ### Discover beyond the usual.
 
 <i>Discover, download, and keep supported apps automatically up to date.</i>
-
+<br>
 <h6 align="center">
   <a href="https://discord.gg/ckdKNVe7Z5">
     <img src="https://img.shields.io/badge/Discord-join%20us-7289DA?logo=discord&logoColor=white&style=for-the-badge&labelColor=23272A" />
@@ -20,7 +20,6 @@
   </a>
   <br />
 </h6>
-<br>
 
 [![Latest Release](https://img.shields.io/github/v/release/Sami-Wali/ryP0?style=for-the-badge&label=Release)](https://github.com/Sami-Wali/ryP0/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/Sami-Wali/ryP0/total?style=for-the-badge&label=Downloads)](https://github.com/Sami-Wali/ryP0/releases)
