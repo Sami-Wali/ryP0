@@ -10,9 +10,11 @@
 
 <br><br>
 
-[![Stars](https://img.shields.io/github/stars/Sami-Wali/ryP0?style=for-the-badge&label=STARS)](https://github.com/Sami-Wali/ryP0/stargazers)
-[![Latest](https://img.shields.io/github/v/release/Sami-Wali/ryP0?style=for-the-badge&label=LATEST)](https://github.com/Sami-Wali/ryP0/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/Sami-Wali/ryP0/total?style=for-the-badge&label=DOWNLOADS)](https://github.com/Sami-Wali/ryP0/releases)
+<h3 align="center">
+<a href="https://github.com/Sami-Wali/ryP0/blob/main/repo.json" target="_blank"><img src="https://altdirect.app/assets/png/AltSource_Blue.png" alt="Add AltSource" width="200"></a>
+&nbsp;
+<a href="[https://github.com/Sami-Wali/ryP0/release](https://github.com/Sami-Wali/ryP0/releases/download/Release/ryP0-unsigned.ipa)" target="_blank"><img src="https://altdirect.app/assets/png/Download_Blue.png" alt="Download .ipa" width="200"></a>
+</h3>
 
 </div>
 
