@@ -13,18 +13,17 @@
     <img src="https://img.shields.io/badge/Discord-join%20us-7289DA?logo=discord&logoColor=white&style=for-the-badge&labelColor=23272A" />
   </a>
   <a href="https://github.com/Sami-Wali/ryP0/stargazers">
-    <img src="https://img.shields.io/github/stars/StikDebug/StikDebug?label=Stars&color=FEE75C&style=for-the-badge&labelColor=23272A" />
+    <img src="https://img.shields.io/github/stars/Sami-Wali/ryP0?label=Stars&color=FEE75C&style=for-the-badge&labelColor=23272A" />
   </a>
   <a href="https://github.com/Sami-Wali/ryP0/releases">
-    <img src="https://img.shields.io/github/v/release/StikDebug/StikDebug?label=Latest&color=00BFFF&style=for-the-badge&labelColor=23272A" />
+    <img src="https://img.shields.io/github/v/release/Sami-Wali/ryP0?label=Latest&color=00BFFF&style=for-the-badge&labelColor=23272A" />
   </a>
   <br />
 </h6>
+</div>
 [![Latest Release](https://img.shields.io/github/v/release/Sami-Wali/ryP0?style=for-the-badge&label=Release)](https://github.com/Sami-Wali/ryP0/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/Sami-Wali/ryP0/total?style=for-the-badge&label=Downloads)](https://github.com/Sami-Wali/ryP0/releases)
 [![Platform](https://img.shields.io/badge/Platform-iOS-black?style=for-the-badge)](#compatibility)
-
-</div>
 
 ---
 
