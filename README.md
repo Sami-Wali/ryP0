@@ -7,24 +7,32 @@
 ### Discover beyond the usual.
 
 <i>Discover, download, and keep supported apps automatically up to date.</i>
+
 <br>
+
 <h6 align="center">
+
   <a href="https://discord.gg/ckdKNVe7Z5">
     <img src="https://img.shields.io/badge/Discord-join%20us-7289DA?logo=discord&logoColor=white&style=for-the-badge&labelColor=23272A" />
   </a>
+
   <a href="https://github.com/Sami-Wali/ryP0/stargazers">
     <img src="https://img.shields.io/github/stars/Sami-Wali/ryP0?label=Stars&color=FEE75C&style=for-the-badge&labelColor=23272A" />
   </a>
+
   <a href="https://github.com/Sami-Wali/ryP0/releases">
     <img src="https://img.shields.io/github/v/release/Sami-Wali/ryP0?label=Latest&color=00BFFF&style=for-the-badge&labelColor=23272A" />
   </a>
+
   <br />
+
 </h6>
 
 [![Downloads](https://img.shields.io/github/downloads/Sami-Wali/ryP0/total?style=for-the-badge&label=Downloads)](https://github.com/Sami-Wali/ryP0/releases)
-[![Platform](https://img.shields.io/badge/Platform-iOS-black?style=for-the-badge)](#compatibility)
+[![Platform](https://img.shields.io/badge/Platform-iOS-black?style=for-the-badge)](#)
 
 <br>
+
 </div>
 
 ---
@@ -40,6 +48,18 @@
 
 ---
 
+## Screenshots
+
+<p align="center">
+  <img src="assets/screenshot-1.png" width="30%" alt="ryP0 Screenshot 1">
+  &nbsp;
+  <img src="assets/screenshot-2.png" width="30%" alt="ryP0 Screenshot 2">
+  &nbsp;
+  <img src="assets/screenshot-3.png" width="30%" alt="ryP0 Screenshot 3">
+</p>
+
+---
+
 ## Download
 
 > [!NOTE]
@@ -51,9 +71,17 @@
 <br>
 
 <h3 align="center">
-<a href="https://github.com/Sami-Wali/ryP0/blob/main/repo.json" target="_blank"><img src="https://altdirect.app/assets/png/AltSource_Blue.png" alt="Add AltSource" width="200"></a>
+
+<a href="https://altdirect.app/?url=https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/repo.json">
+  <img src="https://altdirect.app/assets/png/AltSource_Blue.png" alt="Add AltSource" width="200">
+</a>
+
 &nbsp;
-<a href="[https://github.com/Sami-Wali/ryP0/release](https://github.com/Sami-Wali/ryP0/releases/download/Release/ryP0-unsigned.ipa)" target="_blank"><img src="https://altdirect.app/assets/png/Download_Blue.png" alt="Download .ipa" width="200"></a>
+
+<a href="https://github.com/Sami-Wali/ryP0/releases/download/Release/ryP0-unsigned.ipa">
+  <img src="https://altdirect.app/assets/png/Download_Blue.png" alt="Download .ipa" width="200">
+</a>
+
 </h3>
 
 ---
@@ -72,7 +100,7 @@ This lets ryP0 stay open in LiveContainer 2 while LiveContainer 1 remains availa
 
 ---
 
-## Raw source:
+## Raw source
 
 ```text
 https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/repo.json
