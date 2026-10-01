@@ -21,9 +21,9 @@ community releases, projects, and sources.
 
 [**Get ryP0**](https://github.com/Sami-Wali/ryP0/releases/latest)
 &nbsp;&nbsp;•&nbsp;&nbsp;
-[**View Releases**](https://github.com/Sami-Wali/ryP0/releases)
+[**Open Catalog**](https://altdirect.app/)
 &nbsp;&nbsp;•&nbsp;&nbsp;
-[**Catalog Source**](https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/repo.json)
+[**Releases**](https://github.com/Sami-Wali/ryP0/releases)
 
 <br><br>
 
@@ -32,7 +32,7 @@ community releases, projects, and sources.
 ---
 
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="ryP0">
+  <img src="assets/banner.png" width="100%" alt="ryP0 Banner">
 </p>
 
 ---
@@ -51,7 +51,7 @@ It is designed around simplicity, transparency, and direct access to original so
 
 ryP0 is a catalog-based platform for exploring software distributed through independent sources.
 
-Each entry can contain information such as:
+Each entry can include information such as:
 
 - Name and icon
 - Version
@@ -62,27 +62,27 @@ Each entry can contain information such as:
 - Download availability
 - Update information
 
-ryP0 does not host developer source code or modify original projects.
+ryP0 keeps everything organized while preserving direct access to the original project or distribution source.
 
 ---
 
 ## Preview
 
 <p align="center">
-  <img src="assets/screenshot-1.png" width="30%" alt="ryP0 Preview">
+  <img src="assets/screenshot-1.png" width="30%" alt="ryP0 Preview 1">
   &nbsp;
-  <img src="assets/screenshot-2.png" width="30%" alt="ryP0 Preview">
+  <img src="assets/screenshot-2.png" width="30%" alt="ryP0 Preview 2">
   &nbsp;
-  <img src="assets/screenshot-3.png" width="30%" alt="ryP0 Preview">
+  <img src="assets/screenshot-3.png" width="30%" alt="ryP0 Preview 3">
 </p>
 
 ---
 
 ## Discover
 
-Browse software from different independent sources through one organized catalog.
+Explore software from different independent sources through one organized catalog.
 
-Find new projects, explore release information, view available versions, and access their original sources without jumping between multiple repositories.
+Find new projects, view release information, check available versions, and access original sources without jumping between multiple repositories.
 
 ---
 
@@ -90,7 +90,13 @@ Find new projects, explore release information, view available versions, and acc
 
 ryP0 is built around publicly available project information and release sources.
 
-Where available, entries can provide direct access to the original developer, repository, project page, or release source.
+Where available, entries can provide direct access to:
+
+- Original developer
+- Project repository
+- Release page
+- Distribution source
+- Version history
 
 This keeps the experience transparent and makes it easy to understand where each release comes from.
 
@@ -100,32 +106,51 @@ This keeps the experience transparent and makes it easy to understand where each
 
 Public ryP0 builds are distributed through GitHub Releases.
 
-### Latest version
+### Latest release
 
-[**Download the latest ryP0 release →**](https://github.com/Sami-Wali/ryP0/releases/latest)
+[**Get the latest ryP0 release →**](https://github.com/Sami-Wali/ryP0/releases/latest)
 
-You can also view all previous versions from the
-[Releases](https://github.com/Sami-Wali/ryP0/releases) section.
+Previous versions can be found on the:
+
+[**ryP0 Releases page →**](https://github.com/Sami-Wali/ryP0/releases)
+
+---
+
+## LiveContainer
+
+ryP0 can be used alongside LiveContainer for a smoother workflow.
+
+> [!TIP]
+> ### Recommended setup for LiveContainer users
+>
+> If you use **LiveContainer 1 and LiveContainer 2**, it is recommended to convert **ryP0 into a Shared App**.
+>
+> This allows you to run **ryP0 inside LiveContainer 2** while keeping **LiveContainer 1** available as your primary container.
+>
+> With this setup, ryP0 can remain open in LiveContainer 2 while compatible software can be sent to or opened with LiveContainer 1.
+
+### Setup
+
+In your primary LiveContainer:
+
+1. Find **ryP0**
+2. Open its app settings
+3. Choose **Convert to Shared App**
+4. Open **LiveContainer 2**
+5. Launch the shared ryP0 instance from LiveContainer 2
+
+You can then use ryP0 from LiveContainer 2 while keeping LiveContainer 1 available for compatible downloads and launches.
+
+> [!NOTE]
+> Exact behavior may depend on your LiveContainer version and configuration.
 
 ---
 
 ## Catalog
 
-ryP0 uses a structured catalog to retrieve software metadata and release information.
+ryP0 uses a structured public catalog to retrieve software metadata, versions, releases, and source information.
 
-The public catalog is available here:
-
-[`repo.json`](https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/repo.json)
-
-Catalog information may include:
+### Catalog URL
 
 ```text
-Name
-Identifier
-Developer
-Description
-Version
-Icon
-Source
-Release URL
-Metadata
+https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/repo.json
