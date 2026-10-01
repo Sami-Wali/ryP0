@@ -8,13 +8,21 @@
 
 <i>Discover, download, and keep supported apps automatically up to date.</i>
 
-<br><br>
-
-<h3 align="center">
-<a href="https://github.com/Sami-Wali/ryP0/blob/main/repo.json" target="_blank"><img src="https://altdirect.app/assets/png/AltSource_Blue.png" alt="Add AltSource" width="200"></a>
-&nbsp;
-<a href="[https://github.com/Sami-Wali/ryP0/release](https://github.com/Sami-Wali/ryP0/releases/download/Release/ryP0-unsigned.ipa)" target="_blank"><img src="https://altdirect.app/assets/png/Download_Blue.png" alt="Download .ipa" width="200"></a>
-</h3>
+<h6 align="center">
+  <a href="https://discord.gg/ckdKNVe7Z5">
+    <img src="https://img.shields.io/badge/Discord-join%20us-7289DA?logo=discord&logoColor=white&style=for-the-badge&labelColor=23272A" />
+  </a>
+  <a href="https://github.com/Sami-Wali/ryP0/stargazers">
+    <img src="https://img.shields.io/github/stars/StikDebug/StikDebug?label=Stars&color=FEE75C&style=for-the-badge&labelColor=23272A" />
+  </a>
+  <a href="https://github.com/Sami-Wali/ryP0/releases">
+    <img src="https://img.shields.io/github/v/release/StikDebug/StikDebug?label=Latest&color=00BFFF&style=for-the-badge&labelColor=23272A" />
+  </a>
+  <br />
+</h6>
+[![Latest Release](https://img.shields.io/github/v/release/Sami-Wali/ryP0?style=for-the-badge&label=Release)](https://github.com/Sami-Wali/ryP0/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/Sami-Wali/ryP0/total?style=for-the-badge&label=Downloads)](https://github.com/Sami-Wali/ryP0/releases)
+[![Platform](https://img.shields.io/badge/Platform-iOS-black?style=for-the-badge)](#compatibility)
 
 </div>
 
@@ -41,19 +49,11 @@
 
 <br>
 
-<div align="center">
-
-<a href="https://altdirect.app/?url=https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/repo.json">
-  <img src="https://img.shields.io/badge/↗%20%20ADD%20ALTSOURCE-2684FF?style=for-the-badge&labelColor=000000" height="48">
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/Sami-Wali/ryP0/releases/download/Release/ryP0-unsigned.ipa">
-  <img src="https://img.shields.io/badge/↓%20%20DOWNLOAD%20.IPA-2684FF?style=for-the-badge&labelColor=000000" height="48">
-</a>
-
-</div>
+<h3 align="center">
+<a href="https://github.com/Sami-Wali/ryP0/blob/main/repo.json" target="_blank"><img src="https://altdirect.app/assets/png/AltSource_Blue.png" alt="Add AltSource" width="200"></a>
+&nbsp;
+<a href="[https://github.com/Sami-Wali/ryP0/release](https://github.com/Sami-Wali/ryP0/releases/download/Release/ryP0-unsigned.ipa)" target="_blank"><img src="https://altdirect.app/assets/png/Download_Blue.png" alt="Download .ipa" width="200"></a>
+</h3>
 
 ---
 
@@ -71,21 +71,7 @@ This lets ryP0 stay open in LiveContainer 2 while LiveContainer 1 remains availa
 
 ---
 
-## AltSource
-
-Add the ryP0 catalog directly using **AltDirect**:
-
-<div align="center">
-
-<a href="https://altdirect.app/?url=https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/repo.json">
-  <img src="https://img.shields.io/badge/ADD%20ryP0%20SOURCE-ALTDIRECT-2684FF?style=for-the-badge&labelColor=111111">
-</a>
-
-</div>
-
-<br>
-
-Raw source:
+## Raw source:
 
 ```text
 https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/repo.json
