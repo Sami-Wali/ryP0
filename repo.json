@@ -1,0 +1,32 @@
+{
+  "name": "ryP0",
+  "identifier": "com.ry0.ryP0",
+  "website": "https://github.com/Sami-Wali/ryP0",
+  "subtitle": "Discover beyond the usual.",
+  "description": "A clean catalog for discovering independent iOS software, releases, and sources.",
+  "tintColor": "#000000",
+  "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0/main/assets/icon.png",
+  "headerURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0/main/assets/icon.png",
+  "apps": [
+    {
+      "name": "ryP0",
+      "bundleIdentifier": "com.ry0.ryP0",
+      "developerName": "Sami-Wali",
+      "subtitle": "Discover independent iOS software.",
+      "localizedDescription": "ryP0 is a clean catalog for discovering independent iOS software and releases. Browse projects, access original sources, download available builds, and keep supported apps automatically updated when new versions become available. ryP0 also integrates well with LiveContainer workflows.",
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0/main/assets/icon.png",
+      "tintColor": "#000000",
+      "size": 14846145,
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-09-21",
+          "localizedDescription": "Initial public release of ryP0.",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/Release/ryP0-unsigned.ipa",
+          "size": 14846145
+        }
+      ]
+    }
+  ],
+  "news": []
+}
