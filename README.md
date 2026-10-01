@@ -21,9 +21,14 @@
   <br />
 </h6>
 </div>
+
+<br>
+
 [![Latest Release](https://img.shields.io/github/v/release/Sami-Wali/ryP0?style=for-the-badge&label=Release)](https://github.com/Sami-Wali/ryP0/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/Sami-Wali/ryP0/total?style=for-the-badge&label=Downloads)](https://github.com/Sami-Wali/ryP0/releases)
 [![Platform](https://img.shields.io/badge/Platform-iOS-black?style=for-the-badge)](#compatibility)
+
+<br>
 
 ---
 
