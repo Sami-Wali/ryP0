@@ -58,8 +58,8 @@ Use the ryP0 source with compatible tools:
 
 **AltDirect**
 
-https://altdirect.app/
-
+[https://altdirect.app/
+](https://github.com/Sami-Wali/ryP0/blob/main/repo.json)
 **ryP0 Catalog**
 
 ```text
