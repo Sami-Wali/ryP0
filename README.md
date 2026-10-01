@@ -1,33 +1,3 @@
-
-86 downloads is that real?
-
-Worked for 30s
-إيه، الـ86 حقيقية كرقم من GitHub نفسه. شيكت مباشرة على Release الخاصة بـ ryP0 v1.0، وGitHub API يرجّع للملف:
-
-ryP0-unsigned.ipa → download_count: 86
-
-يعني الرقم مو شيء الـbadge اخترعه؛ الـbadge فقط يقرأ عداد GitHub الرسمي. GitHub أصلًا يوفر download_count لكل Release Asset في الـAPI. 
-
-لكن انتبه للنقطة المهمة: 86 downloads ≠ 86 شخص مختلف. هو عدد تنزيلات ملف الـIPA، وليس إحصائية unique users. يعني لا تكتب مثلًا “86 users”؛ اكتب “86 downloads” فقط.
-
-وعندك حاليًا Release واحدة وAsset واحد فقط، لذلك Badge الـDownloads عندك فعليًا يعكس تنزيلات ryP0-unsigned.ipa مباشرة.
-
-فتح ryP0 Releases
-
-وبصراحة 86 تنزيل خلال حوالي 10 أيام لمشروع صغير ولسه الصفحة نفسها شبه فاضية رقم كويس جدًا.
-
-عدل بان ينصح بمستخدمين لايف كونتينر بتحويله لتطبيق مشارك حتى تقدر تستخدمه في لايف كونتينر ٢ لتستطيع تحميل التطبيقات مباشرة في لايف ١ 
-وابغا اضيف ذا https://altdirect.app/
-
-
-Worked for 17s
-أكيد. الأفضل نخليها واضحة كـ Recommended setup for LiveContainer ونضيف AltDirect كطريقة مباشرة لفتح مصدر ryP0.
-
-حسب توثيق LiveContainer، التطبيق لازم يكون Shared App حتى يشتغل من LiveContainer 2، ويتم التحويل من إعدادات التطبيق داخل LiveContainer الأساسي. 
- وAltDirect مصمم أصلًا لفتح AltSource في LiveContainer وغيره من الأدوات المدعومة. 
-
-استبدل جزء Download / Get ryP0 بهذا:
-
 ## Get ryP0
 
 Public ryP0 builds are available through GitHub Releases.
