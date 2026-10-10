@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/icon.png" width="125" alt="ryP0">
+<img src="assets/ryP0-icon.png" width="125" alt="ryP0">
 
 # ryP0
 
