@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/ryP0-iOS.png" width="125" alt="ryP0">
+<img src="assets/icons/ryP0-iOS.png" width="125" alt="ryP0">
 
 # ryP0
 
@@ -95,11 +95,31 @@
 ## Screenshots
 
 <p align="center">
-  <img src="assets/screenshot-1.png" width="30%" alt="ryP0 Screenshot 1">
+  <img src="assets/screenshots/1.PNG" width="30%" alt="ryP0 Screenshot 1">
   &nbsp;
-  <img src="assets/screenshot-2.png" width="30%" alt="ryP0 Screenshot 2">
+  <img src="assets/screenshots/2.PNG" width="30%" alt="ryP0 Screenshot 2">
   &nbsp;
-  <img src="assets/screenshot-3.png" width="30%" alt="ryP0 Screenshot 3">
+  <img src="assets/screenshots/3.PNG" width="30%" alt="ryP0 Screenshot 3">
+   &nbsp;
+  <img src="assets/screenshots/4.PNG" width="30%" alt="ryP0 Screenshot 4">
+   &nbsp;
+  <img src="assets/screenshots/5.PNG" width="30%" alt="ryP0 Screenshot 5">
+   &nbsp;
+  <img src="assets/screenshots/6.PNG" width="30%" alt="ryP0 Screenshot 6">
+</p>
+
+---
+
+## Themes
+
+<p align="center">
+  <img src="assets/themes/Light.PNG" width="30%" alt="ryP0 Screenshot Light Theme">
+  &nbsp;
+  <img src="assets/themes/Dark.PNG" width="30%" alt="ryP0 Screenshot Dark Theme">
+  &nbsp;
+  <img src="assets/themes/Aurora.PNG" width="30%" alt="ryP0 Screenshot Aurora Theme">
+  &nbsp;
+  <img src="assets/themes/iOS 3.PNG" width="30%" alt="ryP0 Screenshot iOS 3 Theme">
 </p>
 
 ---
