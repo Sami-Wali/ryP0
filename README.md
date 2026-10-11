@@ -182,8 +182,6 @@
 4. Open **LiveContainer 2**.
 5. Launch **ryP0** from LiveContainer 2.
 
-This lets ryP0 stay open in LiveContainer 2 while LiveContainer 1 remains available for apps opened through ryP0.
-
 ---
 
 ## Raw source
