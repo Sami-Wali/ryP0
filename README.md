@@ -168,35 +168,13 @@
 
 ---
 
-## Download
+## LiveContainer
 
 > [!NOTE]
 > **LiveContainer users:**  
 > Convert **ryP0 to a Shared App** and run it through **LiveContainer 2**.
 >
 > This keeps **LiveContainer 1** available so apps opened through ryP0 can be sent directly to your primary LiveContainer.
-
-<br>
-
-<h3 align="center">
-
-<a href="https://altdirect.app/?url=https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/repo.json">
-  <img src="https://altdirect.app/assets/png/AltSource_Blue.png" alt="Add AltSource" width="200">
-</a>
-
-&nbsp;
-
-<a href="https://github.com/Sami-Wali/ryP0/releases/download/Release/ryP0-unsigned.ipa">
-  <img src="https://altdirect.app/assets/png/Download_Blue.png" alt="Download .ipa" width="200">
-</a>
-
-</h3>
-
----
-
-## LiveContainer
-
-For the recommended setup:
 
 1. Open **ryP0** in LiveContainer.
 2. Open **App Settings**.
