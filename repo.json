@@ -6,8 +6,8 @@
   "subtitle": "Discover beyond the usual.",
   "description": "A clean catalog for discovering independent iOS software, releases, projects, and sources.",
   "tintColor": "#00BFFF",
-  "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0/main/assets/icon.png",
-  "headerURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0/main/assets/icon.png",
+  "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0/main/assets/icons/ryP0-iOS.png",
+  "headerURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0/main/assets/icons/ryP0-iOS.png",
   "apps": [
     {
       "name": "ryP0",
@@ -15,7 +15,7 @@
       "developerName": "Sami-Wali",
       "subtitle": "Discover independent iOS software.",
       "localizedDescription": "ryP0 is a clean catalog for discovering independent iOS software and releases. Browse projects, download available builds, access original sources, and keep supported apps automatically updated when new versions become available. ryP0 is also designed to work smoothly with LiveContainer workflows.",
-      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0/main/assets/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/Sami-Wali/ryP0/main/assets/icons/ryP0-iOS.png",
       "tintColor": "#00BFFF",
       "size": 14846145,
       "versions": [
