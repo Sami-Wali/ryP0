@@ -94,33 +94,77 @@
 
 ## Screenshots
 
-<p align="center">
-  <img src="assets/screenshots/1.PNG" width="30%" alt="ryP0 Screenshot 1">
-  &nbsp;
-  <img src="assets/screenshots/2.PNG" width="30%" alt="ryP0 Screenshot 2">
-  &nbsp;
-  <img src="assets/screenshots/3.PNG" width="30%" alt="ryP0 Screenshot 3">
-   &nbsp;
-  <img src="assets/screenshots/4.PNG" width="30%" alt="ryP0 Screenshot 4">
-   &nbsp;
-  <img src="assets/screenshots/5.PNG" width="30%" alt="ryP0 Screenshot 5">
-   &nbsp;
-  <img src="assets/screenshots/6.PNG" width="30%" alt="ryP0 Screenshot 6">
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="assets/screenshots/1.PNG">
+        <img src="assets/screenshots/1.PNG" width="260" alt="ryP0 Screenshot 1">
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="assets/screenshots/2.PNG">
+        <img src="assets/screenshots/2.PNG" width="260" alt="ryP0 Screenshot 2">
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="assets/screenshots/3.PNG">
+        <img src="assets/screenshots/3.PNG" width="260" alt="ryP0 Screenshot 3">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="assets/screenshots/4.PNG">
+        <img src="assets/screenshots/4.PNG" width="260" alt="ryP0 Screenshot 4">
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="assets/screenshots/5.PNG">
+        <img src="assets/screenshots/5.PNG" width="260" alt="ryP0 Screenshot 5">
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="assets/screenshots/6.PNG">
+        <img src="assets/screenshots/6.PNG" width="260" alt="ryP0 Screenshot 6">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Themes
 
-<p align="center">
-  <img src="assets/themes/Light.PNG" width="30%" alt="ryP0 Screenshot Light Theme">
-  &nbsp;
-  <img src="assets/themes/Dark.PNG" width="30%" alt="ryP0 Screenshot Dark Theme">
-  &nbsp;
-  <img src="assets/themes/Aurora.PNG" width="30%" alt="ryP0 Screenshot Aurora Theme">
-  &nbsp;
-  <img src="assets/themes/iOS 3.PNG" width="30%" alt="ryP0 Screenshot iOS 3 Theme">
-</p>
+<table align="center">
+  <tr>
+    <th align="center" width="25%">Light</th>
+    <th align="center" width="25%">Dark</th>
+    <th align="center" width="25%">Aurora</th>
+    <th align="center" width="25%">iOS 3</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="assets/themes/Light.PNG">
+        <img src="assets/themes/Light.PNG" width="200" alt="ryP0 Light Theme">
+      </a>
+    </td>
+    <td align="center">
+      <a href="assets/themes/Dark.PNG">
+        <img src="assets/themes/Dark.PNG" width="200" alt="ryP0 Dark Theme">
+      </a>
+    </td>
+    <td align="center">
+      <a href="assets/themes/Aurora.PNG">
+        <img src="assets/themes/Aurora.PNG" width="200" alt="ryP0 Aurora Theme">
+      </a>
+    </td>
+    <td align="center">
+      <a href="assets/themes/iOS%203.PNG">
+        <img src="assets/themes/iOS%203.PNG" width="200" alt="ryP0 iOS 3 Theme">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -168,3 +212,6 @@ This lets ryP0 stay open in LiveContainer 2 while LiveContainer 1 remains availa
 
 ```text
 https://raw.githubusercontent.com/Sami-Wali/ryP0-repository/main/repo.json
+
+```
+
