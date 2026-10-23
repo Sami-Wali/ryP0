@@ -45,10 +45,7 @@
 - **Custom Repositories** — Add external HTTPS JSON repos with full offline browsing and caching.
 - **Version Control & Notes** — Access historical releases, filter builds (Release, Beta, Alpha, Nightly), and view patch notes.
 - **Community Requests** — Submit and track app suggestions via GitHub, JSON repos, or Telegram links.
-
-> [!NOTE]
-> Updates apply to catalog listings. Installer integration requires the respective tool installed and a compatible IPA.
-
+  
 ---
 
 ## Screenshots
