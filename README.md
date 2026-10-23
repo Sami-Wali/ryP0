@@ -41,7 +41,7 @@
 
 - **Explore & Download** — Discover independent iOS apps, browse by category, and download IPAs directly.
 - **Auto-Updating Catalog** — Real-time updates and releases without needing to update ryP0 itself.
-- **Installer Integrations** — Direct 1-tap installation via **LiveContainer**, **AltStore**, **SideStore**, or **Nyxian**.
+- **Installer Integrations** — Direct 1-tap installation via **LiveContainer**,**zContianer** **AltStore**, **SideStore**, or **Zeus**.
 - **Custom Repositories** — Add external HTTPS JSON repos with full offline browsing and caching.
 - **Version Control & Notes** — Access historical releases, filter builds (Release, Beta, Alpha, Nightly), and view patch notes.
 - **Community Requests** — Submit and track app suggestions via GitHub, JSON repos, or Telegram links.
