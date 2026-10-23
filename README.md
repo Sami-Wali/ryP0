@@ -119,8 +119,8 @@
   </tr>
   <tr>
     <th align="center" width="33%">iOS 3</th>
-    <th align="center" width="33%">Dynamic Theme 1</th>
-    <th align="center" width="33%">Dynamic Theme 2</th>
+    <th align="center" width="33%">Orbit</th>
+    <th align="center" width="33%">PS3</th>
   </tr>
   <tr>
     <td align="center">
@@ -129,30 +129,17 @@
       </a>
     </td>
     <td align="center">
-      <a href="assets/themes/theme1.gif">
-        <img src="assets/themes/theme1.gif" width="220" alt="Dynamic Theme 1">
+      <a href="assets/themes/Orbit.gif">
+        <img src="assets/themes/Orbit.gif" width="220" alt="Orbit Theme">
       </a>
     </td>
     <td align="center">
-      <a href="assets/themes/theme2.gif">
-        <img src="assets/themes/theme2.gif" width="220" alt="Dynamic Theme 2">
+      <a href="assets/themes/PS3.gif">
+        <img src="assets/themes/PS3.gif" width="220" alt="PS3 Theme">
       </a>
     </td>
   </tr>
 </table>
-
----
-
-## LiveContainer Setup
-
-> [!TIP]
-> **To send apps directly to LiveContainer 1:** Convert **ryP0** to a Shared App and run it through **LiveContainer 2**.
-
-1. Open **ryP0** in LiveContainer.
-2. Go to **App Settings** → **Convert to Shared App**.
-3. Open **LiveContainer 2** and launch **ryP0**.
-
----
 
 ## Repository Source
 
