@@ -166,24 +166,6 @@
   </tr>
 </table>
 
----
-
-## LiveContainer
-
-> [!NOTE]
-> **LiveContainer users:**  
-> Convert **ryP0 to a Shared App** and run it through **LiveContainer 2**.
->
-> This keeps **LiveContainer 1** available so apps opened through ryP0 can be sent directly to your primary LiveContainer.
-
-1. Open **ryP0** in LiveContainer.
-2. Open **App Settings**.
-3. Select **Convert to Shared App**.
-4. Open **LiveContainer 2**.
-5. Launch **ryP0** from LiveContainer 2.
-
----
-
 ## Raw source
 
 ```text
