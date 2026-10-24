@@ -20,10 +20,10 @@
       "size": 14846145,
       "versions": [
         {
-          "version": "1.0.0",
+          "version": "2.2",
           "date": "2026-09-21",
-          "localizedDescription": "Initial public release of ryP0.",
-          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/Release/ryP0-unsigned.ipa",
+          "localizedDescription": "ryP0",
+          "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/2.2/ryP0-unsigned.ipa",
           "size": 14846145
         }
       ]
